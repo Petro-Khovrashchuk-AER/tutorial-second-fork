@@ -4,6 +4,7 @@
   "description": "A simple package json for Renovate tutorial use only",
   "author": "Philip",
   "license": "Apache-2.0",
+
   "dependencies": {
     "commander": "2.20.3",
     "lodash": "4.17.20",
